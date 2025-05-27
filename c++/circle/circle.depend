@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704320229 source:c:\users\xavii\onedrive\desktop\c++\circle\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
